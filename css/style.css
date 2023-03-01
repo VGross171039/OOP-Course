@@ -1,0 +1,191 @@
+.header p {
+  font-size: 20px;
+  line-height: 1;
+}
+
+.header a.testing {
+  font-size: 20px;
+  line-height: 1.5;
+  font-weight: 600;
+  color: #00137f;
+  display: inline-block;
+  transition: all 0.2 ease;
+  margin-top: 1.2rem;
+}
+
+.header a.testing:hover {
+  color: #f00;
+}
+
+.testbanner{
+  padding-left: 1rem;
+  padding-top: 4rem;
+}
+
+.testbanner a{
+  display: block;
+}
+
+.infolesson{
+  padding-bottom: 0.5rem;
+}
+
+.infolesson p{
+  padding: 0;
+  margin: 0;
+}
+
+.teory-title,
+.practic-title {
+  font-style: normal;
+  font-size: 26px;
+  text-decoration: underline;
+  padding-bottom: 2rem;
+  text-align: center;
+}
+
+.separator {
+  font-size: 20px;
+  font-weight: 600;
+  color: #f00;
+  margin-bottom: 0.5rem;
+}
+
+.accent {
+  font-size: 18px;
+  color: #f00;
+  margin-bottom: 0.5rem;
+}
+
+.mt-05 {
+  margin-top: 0.5rem;
+}
+.mb-05 {
+  margin-bottom: 0.5rem;
+}
+.mt-1{
+  margin-top: 1rem;
+}
+.mb-1 {
+  margin-bottom: 1rem;
+}
+.my-05 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+.pt-05 {
+  padding-top: 0.5rem;
+}
+.pb-05 {
+  padding-bottom: 0.5rem;
+}
+.py-05 {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+.px-05 {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+.pl-05 {
+  padding-left: 0.5rem;
+}
+.pr-05 {
+  padding-right: 0.5rem;
+}
+
+.fs-20 {
+  font-size: 20px;
+}
+
+ul.list a,
+span {
+  display: inline-block;
+  padding-right: 0.5rem;
+}
+
+ul.src{
+  margin-top: 1rem;
+  padding-top: 0.8rem;
+  border-top: 0.2px solid rgba(105, 105, 105, 0.8);
+}
+
+ul.src span {
+  display: inline-block;
+  padding-right: 0.5rem;
+  color: #00137f;
+}
+
+ul.concept li{
+  margin: 0;
+  padding: 0;
+}
+
+ul.concept p{
+  margin: 0;
+  padding: 0;
+}
+
+ul.concept li+li{
+  margin-top: 1rem;
+}
+
+ul.concept span{
+  display: inline-block;
+  padding-right: 0.5rem;
+  font-weight: 600;
+  color: #00137f;
+}
+
+li.tasks {
+  margin-bottom: 1rem;
+}
+
+h3.mydata {
+  margin: 0;
+  padding: 0;
+  font-weight: 400;
+  color: #f00;
+  margin-bottom: 0.5rem;
+  min-height: 56px;
+}
+
+h3 span {
+  display: block;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  color: #333;
+}
+
+.fw-600{
+  font-weight: 600;
+}
+
+.workarea{
+  padding: 1rem 0;
+  min-height: 100px;
+}
+
+pre {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  overflow: auto;
+  overflow-y: hidden;
+  font-size: 14px;
+  line-height: 20px;
+  background: #F2F1F1;
+  border: 1px solid #E8EAED;
+}
+
+pre p{
+  color: #f00;
+  padding: 0 0 0 1rem;
+  font-size: 18px;
+}
+
+pre code {
+  padding: 10px;
+  color: #333;
+}
