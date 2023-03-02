@@ -13,9 +13,9 @@
   <li><a href="/oopdel/syntax/dto/">Data Transfer Object</a></li>
   <li><a href="/oopdel/syntax/methods/">Методы</a></li>
   <li><a href="/oopdel/syntax/construct/">Конструктор и деструктор</a></li>
-  <li><a href="/oopdel/syntax/getsetters/">Геттеры и сеттеры</a></li>
-  <li><a href="/oopdel/syntax/constants/">Constants</a></li>
-  <li><a href="/oopdel/syntax/optional/">Не / и Обязательные аргументы методов</a></li>
+  <li><a href="/oopdel/syntax/getsetters/">Геттеры, сеттеры и дополнительные методы</a></li>
+  <li><a href="/oopdel/syntax/constants/">Константы</a></li>
+  <li><a href="/oopdel/syntax/optional/">Аргументы методов</a></li>
   <li>
     <hr>
     <p class="separator">Принципы Как пишутся хорошие классы</p>
