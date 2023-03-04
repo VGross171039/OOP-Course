@@ -14,7 +14,7 @@
   <li><a href="/oopdel/syntax/methods/">Методы</a></li>
   <li><a href="/oopdel/syntax/construct/">Конструктор и деструктор</a></li>
   <li><a href="/oopdel/syntax/getsetters/">Геттеры, сеттеры и дополнительные методы</a></li>
-  <li><a href="/oopdel/syntax/constants/">Константы</a></li>
+  <li><a href="/oopdel/syntax/constants/">Константы и статичные свойства</a></li>
   <li><a href="/oopdel/syntax/optional/">Аргументы методов</a></li>
   <li>
     <hr>
